@@ -1,0 +1,12 @@
+C:\Users\hp\Spring-CRUD\src\main\java\com\batch2\artifact1\Artifact1Application.java
+C:\Users\hp\Spring-CRUD\src\main\java\com\batch2\artifact1\controller\CourseController.java
+C:\Users\hp\Spring-CRUD\src\main\java\com\batch2\artifact1\controller\LoginController.java
+C:\Users\hp\Spring-CRUD\src\main\java\com\batch2\artifact1\controller\RegController.java
+C:\Users\hp\Spring-CRUD\src\main\java\com\batch2\artifact1\domain\Login.java
+C:\Users\hp\Spring-CRUD\src\main\java\com\batch2\artifact1\domain\Student.java
+C:\Users\hp\Spring-CRUD\src\main\java\com\batch2\artifact1\repository\CourseRepo.java
+C:\Users\hp\Spring-CRUD\src\main\java\com\batch2\artifact1\repository\LoginRepo.java
+C:\Users\hp\Spring-CRUD\src\main\java\com\batch2\artifact1\repository\RegRepo.java
+C:\Users\hp\Spring-CRUD\src\main\java\com\batch2\artifact1\service\CourseService.java
+C:\Users\hp\Spring-CRUD\src\main\java\com\batch2\artifact1\service\LoginService.java
+C:\Users\hp\Spring-CRUD\src\main\java\com\batch2\artifact1\service\RegService.java
